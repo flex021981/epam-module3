@@ -8,8 +8,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>task01</module><!-- Task 1 - Serialization -->
-        <module>task02</module><!-- Task 2 - DiskAnalyzer -->
+<!-- Task1-Serialization--> <module>task01</module>
+<!-- Task2-DiskAnalyzer-->  <module>task02</module>
+<!-- Task7-File Sharing-->  <module>task07</module>
     </modules>
 
     <properties>
